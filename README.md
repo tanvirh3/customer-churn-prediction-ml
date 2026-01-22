@@ -143,3 +143,32 @@ This project demonstrates a complete, business-oriented machine learning pipelin
 - Translated model outputs into actionable retention strategies
 
 - Demonstrated strong alignment between machine learning and real-world business needs
+
+---
+
+**Charts Preview**
+
+***ROC Curve***
+
+<img src="assets/lr_roc.png" width="850" />
+<img src="assets/rf_roc.png" width="850" />
+<img src="assets/gb_roc.png" width="850" />
+
+***Confusion Matrix***
+
+<img src="assets/lr_confusion_matrix.png" width="850" />
+<img src="assets/rf_confusion.png" width="850" />
+<img src="assets/gb_confusion.png" width="850" />
+
+***Precision–Recall Curve***
+
+<img src="assets/precision_recall_curve.png" width="850" />
+
+***Feature Importance Chart***
+
+<img src="assets/feature_importance.png" width="850" />
+
+***Threshold Tuning (Recall vs Threshold)***
+
+<img src="assets/tuned_threshold.png" width="850" />
+
